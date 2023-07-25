@@ -46,7 +46,7 @@ django-widget-tweaks==1.4.8
 django-countries==7.2.1
 xhtml2pdf==0.2.5
 django-easy-pdf3==0.1.2
-num2words==0.5.10
+num2words==0.5.12
 django-polymorphic==3.0.0
 sorl-thumbnail==12.7.0
 docxtpl==0.12.0
